@@ -1,0 +1,8 @@
+🔑 Keys
+Application ID
+692608
+Access Key
+wmaFGZu3sQ05knh9AReGrWp2g4ZqXIIban3Zz5UJO4I
+Secret key
+d0OX84Fx1VYNpsWi8BTLHn995OniHSfLDcJ1c6HX3VI
+Note: both your Access Key and Secret Key must remain confidential.
