@@ -6,7 +6,7 @@
 }
 
 body{
-    background: #39297b;
+    background: rgb(23, 23, 23);
     color: #fff;
 }
 h1{
@@ -37,7 +37,7 @@ form input{
 form button{
     padding: 0 40px;
     height: 100%;
-    background: #ff3929;
+    background: grey;
     color: #fff;
     font-size: 18px;
     border: 0;
