@@ -33,4 +33,6 @@ searchForm.addEventListener("submit", (e) =>{
     e.preventDefault();
     page = 1;
     searchImages();
-})
+});
+
+showMoreBtn().addEventListener("click", () =>{ page++; searchImages();});
